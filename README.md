@@ -5,19 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=russel-zaman&label=Profile%20views&color=0e75b6&style=flat" alt="russel-zaman" /> </p>
 
-- 🔭 I’m currently working on Vehicle brake state detection [Vehicle brake state detection with YOLOv5](https://github.com/russel-zaman/Vehicle_Tail_Light_Brake_State_Det_Yolov5)
+- 🔭 I’m currently working on Vehicle brake state detection with YOLOv5 [Brake state YOLOv5](https://github.com/russel-zaman/Vehicle_Tail_Light_Brake_State_Det_Yolov5)
 
 - 🌱 I’m currently learning Python and web development **Flask**
 
 - 👨‍💻 All of my projects are available at [https://github.com/russel-zaman](https://github.com/russel-zaman)
 
-- 📫 How to reach me **russel.ez16@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/kazi953/](https://www.linkedin.com/in/kazi953/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kazi953" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kazi953" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kazi953/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kazi953/" height="30" width="40" /></a>
 <a href="https://medium.com/@russel.ez16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@russel.ez16" height="30" width="40" /></a>
 </p>
 

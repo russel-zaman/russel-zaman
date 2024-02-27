@@ -1,3 +1,4 @@
+![logo](https://github.com/russel-zaman/russel-zaman/blob/main/github-header-image%20(1).png)
 <h1 align="center">Hi 👋, I'm Kazi </h1>
 <h3 align="center">A passionate Embedded system developer</h3>
 

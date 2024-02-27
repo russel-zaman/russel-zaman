@@ -1,8 +1,6 @@
-![logo](https://github.com/russel-zaman/russel-zaman/blob/main/github-header-image%20(1).png)
+![logo](https://github.com/russel-zaman/russel-zaman/assets/36370148/76664fe3-9929-46e8-a335-14844c7b0f87)
 <h1 align="center">Hi 👋, I'm Kazi </h1>
 <h3 align="center">A passionate Embedded system developer</h3>
-
-<img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=russel-zaman&label=Profile%20views&color=0e75b6&style=flat" alt="russel-zaman" /> </p>
 

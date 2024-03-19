@@ -16,7 +16,7 @@
 
 [![LinkedIn](https://github.com/amihsan/amihsan/assets/57538441/d660884d-98fb-4998-8b4a-f0fcfbc0d393)](https://www.linkedin.com/in/kazi953/) <!-- Your LinkedIn Profile -->
 <p align="left">
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kazi953/) 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 

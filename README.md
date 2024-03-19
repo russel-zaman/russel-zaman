@@ -14,7 +14,7 @@
 <!-- ### Get in touch --!>
 <h3 align="left">Connect with me:</h3>
 
-[![LinkedIn](https://github.com/amihsan/amihsan/assets/57538441/d660884d-98fb-4998-8b4a-f0fcfbc0d393)](https://www.linkedin.com/in/kazi953/)
+[![LinkedIn](https://github.com/amihsan/amihsan/assets/57538441/d660884d-98fb-4998-8b4a-f0fcfbc0d393)](https://www.linkedin.com/in/kazi953/) <!-- Your LinkedIn Profile -->
 <p align="left">
 
 

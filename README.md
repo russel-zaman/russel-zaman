@@ -15,7 +15,10 @@
 <!-- ### Get in touch --!>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-[![LinkedIn](https://github.com/amihsan/amihsan/assets/57538441/d660884d-98fb-4998-8b4a-f0fcfbc0d393)](https://www.linkedin.com/in/kazi953/) <!-- Your LinkedIn Profile -->
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/kazi953/) <!-- Your LinkedIn Profile -->
+
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/kazi953/)
+
 
 <a href="https://linkedin.com/in/kazi953/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kazi953/" height="30" width="40" /></a>
 <a href="https://medium.com/@russel.ez16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@russel.ez16" height="30" width="40" /></a>

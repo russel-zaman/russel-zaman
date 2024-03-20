@@ -12,14 +12,9 @@
 - 👨‍💻 All of my projects are available at [https://github.com/russel-zaman](https://github.com/russel-zaman)
 
   
-<!-- ### Get in touch --!>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+### Get in touch
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kazi953/)
 
-
-<a href="https://linkedin.com/in/kazi953/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kazi953/" height="30" width="40" /></a>
-<a href="https://medium.com/@russel.ez16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@russel.ez16" height="30" width="40" /></a>
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>

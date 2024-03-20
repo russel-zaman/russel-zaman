@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Python and web development **Flask**
 
 ### Repositories
-- 👨‍💻 All of my projects are available at [https://russel-zaman.github.io/](https://github.com/russel-zaman)
+- 👨‍💻 All of my projects are available at [https://russel-zaman.github.io/](https://russel-zaman.github.io/)
 
   
 ### Get in touch
